@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CS_OneHarborApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F:\Projects\CS Programs</Value>
+    </Setting>
+    <Setting Name="PartnerFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">custom_report.xlsx</Value>
+    </Setting>
+    <Setting Name="PastorFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">department_summary.xlsx</Value>
+    </Setting>
+    <Setting Name="MakeOversightPastorFiles" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
